@@ -1,0 +1,13 @@
+{
+    "FROM_GROUP": "-1001427281007",
+    "TO_GROUP": "-1001684788362",
+    "LAST_ONLINE" : "01/02/22 05:00",
+    "ACCOUNTS": [
+        {
+            "PHONE_NUMBER": "+62859180449392",
+            "SESSION_ID": "1",
+            "APP_ID": "19180694",
+            "APP_HASH_ID": "07750c906c66f781cea21636c42fa4a5"
+        }
+    ]
+}
